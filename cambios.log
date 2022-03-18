@@ -1,0 +1,8 @@
+[2022-03-17 21:02:09] [ INFO ] [Main:33] Imprimiendo lista de odontologos
+[2022-03-17 21:03:05] [ INFO ] [Main:31] Agregando odontologo
+[2022-03-17 21:03:05] [ INFO ] [Main:35] Agregando odontologo
+[2022-03-17 21:03:05] [ INFO ] [Main:37] Imprimiendo lista de odontologos
+[2022-03-17 21:11:17] [ INFO ] [OdontologoDAOH2Test:18] Imprimiendo test, lista de odontologos: 
+[2022-03-17 21:13:28] [ INFO ] [OdontologoDAOH2Test:38] Agregando odontologo
+[2022-03-17 21:13:28] [ INFO ] [OdontologoDAOH2Test:42] Agregando odontologo
+[2022-03-17 21:13:28] [ INFO ] [OdontologoDAOH2Test:46] Imprimiendo test, lista de odontologos: 
